@@ -1,7 +1,6 @@
 import click
 import yaml
 
-
 @click.group()
 def cli():
     pass
